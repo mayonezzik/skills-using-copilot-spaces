@@ -30,9 +30,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Triage root cause and capture action items
 
 ## Release Notes Template
-- Release name / number:
-- Date:
-- Summary:
-- Notable changes:
-- Migration steps (if any):
-- Known issues:
+Use the [Release Notes Template](templates/release-notes-template.md) to draft release notes. Key sections include:
+- Release name / number and date
+- Release type (Patch / Minor / Major)
+- Release Manager (DRI)
+- Summary, notable changes, migration steps, known issues
+- Stakeholder announcement draft
