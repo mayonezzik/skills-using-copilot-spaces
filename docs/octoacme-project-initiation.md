@@ -20,14 +20,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+Use the [Project One-Pager Template](templates/project-one-pager-template.md) to structure this deliverable. Key fields include:
+- Project name
+- Problem statement
+- Objective / Goal (SMART)
+- Success metrics
+- Primary stakeholders
+- DRI (Directly Responsible Individual)
+- Suggested timeline / milestones
+- Quick risks & dependencies
+- Proposed team / roles
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

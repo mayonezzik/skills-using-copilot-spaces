@@ -31,13 +31,16 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
-  - ID, Description, Impact, Probability, Owner, Mitigation
+- Capture all risks in the [Risk Register Template](checklists/risk-register-template.md):
+  - ID, Description, Impact, Probability, Owner (DRI), Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Assign a single DRI per risk — no unowned risks
 
 ## Planning Checklist
 - [ ] Project kickoff held
-- [ ] Backlog prioritized and estimated
+- [ ] Backlog prioritized and estimated; DRI assigned for each item
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (see [Definition of Done Checklist](checklists/definition-of-done-checklist.md))
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk Register initialized (see [Risk Register Template](checklists/risk-register-template.md))
+- [ ] Decision Log created for the project (see [Decision Log Template](templates/decision-log-template.md))
